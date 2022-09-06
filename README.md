@@ -13,3 +13,4 @@ Source code for the complete catfacts serverless application, built with:
 
 ## ServerLess Docs
 - https://experiences.microsoft.fr/articles/cloud/creez-votre-premiere-application-serverless-avec-angular-nestjs-et-azure/
+- https://microsoft.github.io/AzureTipsAndTricks/blog/blog/tip295.html
